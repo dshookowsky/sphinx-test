@@ -34,6 +34,7 @@ extensions = [
 
 spelling_lang='en_US'
 tokenizer_lang='en_US'
+spelling_warning=True
 
 source_suffix = {
     '.rst': 'restructuredtext',
