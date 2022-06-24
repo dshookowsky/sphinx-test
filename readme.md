@@ -1,4 +1,4 @@
-This demonstrates footnotes being caught by the sphinxcontrib-spelling
+This demonstrates footnotes being caught by the sphinxcontrib-spelling extension
 
 I'm building this with 
 
